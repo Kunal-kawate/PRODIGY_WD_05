@@ -1,7 +1,6 @@
 # PRODIGY_WD_05
  Is an innovative and user-friendly web application designed to provide real-time weather information from various locations around the world. 
 
-Certainly, here's a README file for your "Weather Hub" GitHub repository focusing on temperature and wind speed for different cities with a search option:
 
 ```markdown
 # Weather Hub - Your City Weather Web Application
